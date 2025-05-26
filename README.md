@@ -65,7 +65,7 @@ This is a decentralized **E-Auction Platform** built on Ethereum blockchain tech
 - Git
 
 ### Clone the Repository
-```bash
+
 git clone https://github.com/Afshan0608/e-auction-platform.git
 cd e-auction-platform
 
